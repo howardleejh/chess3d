@@ -21,10 +21,8 @@ There is still much improvement to be done, hence I'll continue to build upon th
 
 <h3>Features</h3>
 
-<br />
-
 - Profile Picture selection
-- Computer player for player 1 and 2
+- Computer players for player 1 and 2
 - Color selection for each player
 - Move History Window
 - Countdown Timer [WIP]
@@ -41,12 +39,11 @@ There is still much improvement to be done, hence I'll continue to build upon th
 
 <br />
 <h4>Some features to be implemented or improved upon: </h4>
-<br />
 
-<input type="checkbox"> Countdown timer not yet implemented<br />
-<input type="checkbox"> Reflecting the correct board when toggling Darkmode<br />
-<input type="checkbox"> Localizing all dependencies including assets<br />
-<input type="checkbox"> Ensuring Orbit Control is working<br />
-<input type="checkbox"> Implement a Chess Engine<br />
+- [ ] Countdown timer not yet implemented<br />
+- [ ] Reflecting the correct board when toggling Darkmode<br />
+- [ ] Localizing all dependencies including assets<br />
+- [ ] Ensuring Orbit Control is working<br />
+- [ ] Implement a Chess Engine<br />
 
-
+![alt text](https://github.com/howardleejh/howardleejh.github.io/blob/master/Game%20Sample.png)
