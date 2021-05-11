@@ -15,6 +15,10 @@ This is my first project where I attempt to create a classic Chess game in both 
 
 <br />
 
+![alt text](https://github.com/howardleejh/howardleejh.github.io/blob/master/Game%20Sample.png)
+
+<br />
+
 There is still much improvement to be done, hence I'll continue to build upon this project to better improve some of the features and perhaps to add on more soon.
 
 <br />
@@ -38,6 +42,7 @@ There is still much improvement to be done, hence I'll continue to build upon th
 - Score System
 
 <br />
+
 <h4>Some features to be implemented or improved upon: </h4>
 
 - [ ] Countdown timer not yet implemented<br />
@@ -46,4 +51,3 @@ There is still much improvement to be done, hence I'll continue to build upon th
 - [ ] Ensuring Orbit Control is working<br />
 - [ ] Implement a Chess Engine<br />
 
-![alt text](https://github.com/howardleejh/howardleejh.github.io/blob/master/Game%20Sample.png)
